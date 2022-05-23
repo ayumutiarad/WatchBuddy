@@ -1,1 +1,1 @@
-# WatchBuddy
+# Watch Buddy
